@@ -1,0 +1,31 @@
+<mxfile host="Electron" modified="2024-07-05T11:11:31.504Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="iqNnzWdpTME2wGVk9dgx" version="24.5.3" type="device">
+  <diagram name="Page-1" id="AFFF_RAZ58IPwGyUiLYZ">
+    <mxGraphModel dx="4037" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lbD551gkDk_0xl5syBFy-1" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 30px;&quot;&gt;Sales &amp;amp; Profit By SubCategory&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+          <mxGeometry x="480" y="240" width="530" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="lbD551gkDk_0xl5syBFy-2" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 30px;&quot;&gt;Trend Over Time&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="240" width="530" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="lbD551gkDk_0xl5syBFy-3" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Sales DashBoard | 2023&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="-61" y="60" width="1610" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="lbD551gkDk_0xl5syBFy-4" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 30px;&quot;&gt;Filters&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="1670" y="55" width="330" height="990" as="geometry" />
+        </mxCell>
+        <mxCell id="lbD551gkDk_0xl5syBFy-6" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 30px;&quot;&gt;Total Sales&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="240" width="530" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="7QKGjcwPVOZl6kPzH8zZ-7" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 30px;&quot;&gt;Total Profit&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="515" width="530" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="7QKGjcwPVOZl6kPzH8zZ-8" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 30px;&quot;&gt;Total Quantity&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="790" width="530" height="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

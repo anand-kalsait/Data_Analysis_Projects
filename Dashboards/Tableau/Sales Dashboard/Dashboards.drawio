@@ -1,0 +1,76 @@
+<mxfile host="Electron" modified="2024-07-05T11:23:08.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="JyaRDw9UVpoIBrpMTBw-" version="24.5.3" type="device">
+  <diagram name="Page-1" id="AFFF_RAZ58IPwGyUiLYZ">
+    <mxGraphModel dx="5630" dy="2787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lbD551gkDk_0xl5syBFy-1" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 30px;&quot;&gt;Sales &amp;amp; Profit By SubCategory&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+          <mxGeometry x="480" y="240" width="530" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="lbD551gkDk_0xl5syBFy-2" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 30px;&quot;&gt;Trend Over Time&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="240" width="530" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="lbD551gkDk_0xl5syBFy-3" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Sales DashBoard | 2023&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="-61" y="60" width="1610" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="lbD551gkDk_0xl5syBFy-4" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 30px;&quot;&gt;Filters&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="1670" y="55" width="330" height="990" as="geometry" />
+        </mxCell>
+        <mxCell id="lbD551gkDk_0xl5syBFy-6" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 30px;&quot;&gt;Total Sales&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="240" width="530" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="7QKGjcwPVOZl6kPzH8zZ-7" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 30px;&quot;&gt;Total Profit&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="515" width="530" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="7QKGjcwPVOZl6kPzH8zZ-8" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 30px;&quot;&gt;Total Quantity&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="790" width="530" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="7QKGjcwPVOZl6kPzH8zZ-12" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.personalization2;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="115" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7QKGjcwPVOZl6kPzH8zZ-13" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.workflow;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="115" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7QKGjcwPVOZl6kPzH8zZ-14" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.channels;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="115" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7QKGjcwPVOZl6kPzH8zZ-15" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.financial_services;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="115" width="57.599999999999994" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7QKGjcwPVOZl6kPzH8zZ-16" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 30px;&quot;&gt;Sales &amp;amp; Profit By SubCategory&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1335" width="530" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="7QKGjcwPVOZl6kPzH8zZ-17" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 30px;&quot;&gt;Trend Over Time&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1335" width="530" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="7QKGjcwPVOZl6kPzH8zZ-18" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Customer DashBoard | 2023&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="-61" y="1155" width="1610" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="7QKGjcwPVOZl6kPzH8zZ-19" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 30px;&quot;&gt;Filters&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="1150" width="330" height="990" as="geometry" />
+        </mxCell>
+        <mxCell id="7QKGjcwPVOZl6kPzH8zZ-20" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 30px;&quot;&gt;Total Sales&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="1335" width="530" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="7QKGjcwPVOZl6kPzH8zZ-21" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 30px;&quot;&gt;Total Profit&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="1610" width="530" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="7QKGjcwPVOZl6kPzH8zZ-22" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 30px;&quot;&gt;Total Quantity&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="1885" width="530" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="7QKGjcwPVOZl6kPzH8zZ-23" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.personalization2;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="1210" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7QKGjcwPVOZl6kPzH8zZ-24" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.workflow;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="1210" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7QKGjcwPVOZl6kPzH8zZ-25" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.channels;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1210" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7QKGjcwPVOZl6kPzH8zZ-26" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.financial_services;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="1210" width="57.599999999999994" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
